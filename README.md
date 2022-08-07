@@ -1,2 +1,2 @@
-# memorylab.github.io
+# Memory Lab @ CUHK
 Memory Lab @ CUHK
